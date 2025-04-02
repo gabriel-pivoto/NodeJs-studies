@@ -1,0 +1,34 @@
+### Node.js ###
+node_modules/
+package-lock.json
+yarn.lock
+
+### Logs ###
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
+logs/
+
+### Editor e Sistema ###
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+### Build e Dependências ###
+dist/
+out/
+build/
+coverage/
+
+### Ambiente ###
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+### Outros ###
+*.log
+*.tmp
